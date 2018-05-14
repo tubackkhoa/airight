@@ -4,8 +4,10 @@
   company: Agiletech Viet Nam
   details: "Solution architecture for different projects such as: 
 <a href='https://facebook.github.io/react-native/' target='_blank'>React Native</a>
+<br>
 <strong>AI</strong> : <a href='https://spark.apache.org/mllib/' target='_blank'>mllib</a>
 <a href='https://www.tensorflow.org/' target='_blank'>Tensorflow</a>
+<br>
 <strong>Blockchain</strong> : <a href='https://spark.apache.org/mllib/' target='_blank'>Ethereum</a>
 <a href='https://tendermint.com/' target='_blank'>Tendermint</a>
 <a href='https://www.hyperledger.org/projects/fabric' target='_blank'>Hyperledger Fabric</a>
