@@ -39,6 +39,7 @@ twitter: '@tubackkhoa'
 analytics: UA-119187154-1
 
 # Build settings
+future: true
 encoding: "utf-8"
 compress_html: # - http://jch.penibelst.de/
   clippings: all
