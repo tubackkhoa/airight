@@ -1,23 +1,18 @@
-intro: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
-  sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+intro: "Side projects when I was working as freelancer."
 projects:
   - project:
-    title: Velocity
-    link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    title: TKFramework
+    link: "https://github.com/tubackkhoa/tkframework"
+    tagline: "The purpose of this framework is to show how to set up a concise React app aimed at rapid development and sophisticated asynchronic processing."
   - project:
-    title: DevStudio
-    link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
+    title: hyperledger-k8s
+    link: "https://github.com/tubackkhoa/hyperledger-k8s"
+    tagline: "Help deloying Hyperledger projects on kubernetes."
   - project:
-    title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+    title: ReactNativeStarterKits
+    link: "https://github.com/tubackkhoa/ReactNativeStarterKits"
+    tagline: "A starter kit for React Native that aims at high performance to deliver buttery-smooth UI."
   - project:
-    title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-  - project:
-    title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    title: Ninenine
+    link: "https://github.com/tubackkhoa/ninenine"
+    tagline: "A CMS focus on Client UI that utilizing css3 animation technologies to elimitate manually importing resources."  
