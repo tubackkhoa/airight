@@ -17,11 +17,11 @@ about: True # set to False or comment line if you want to remove the "How to use
 name: Pham Thanh Tu
 tagline: Solution Architect
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'I\'m 32 years old CTO of Agiletech Viet Nam and senior developer from the cozy street of Ha Noi. I have more than 10 years of work experience in various positions.
+summary: "I'm 32 years old CTO of Agiletech Viet Nam and senior developer from the cozy street of Ha Noi. I have more than 10 years of work experience in various positions.
 I love coding, music and having time with my family.
-I\'m also an international speaker of AI & Blockchain.
+I'm also an international speaker of AI & Blockchain.
 My visionary believed that teamwork is essential to delivering great software.
-You can view more about <a href="http://agiletech.vn" target="_blank">Agiletech Viet Nam</a>.'
+You can view more about <a href='http://agiletech.vn' target='_blank'>Agiletech Viet Nam</a>."
 
 #sidebar links
 email: tu@agiletech.vn
@@ -39,7 +39,6 @@ twitter: '@tubackkhoa'
 analytics: UA-119187154-1
 
 # Build settings
-future: true
 encoding: "utf-8"
 compress_html: # - http://jch.penibelst.de/
   clippings: all
