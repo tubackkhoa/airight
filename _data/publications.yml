@@ -2,7 +2,7 @@ intro: "Some publications of me."
 publications:
   - paper:
     title: Hyperledger Ha Noi Meetup
-    authors: me & Tuan Tran( CTO of Qsoft Viet Nam )
+    authors: me & Blockchain Viet Nam
     conference: https://twitter.com/Hyperledger/status/986336495249244160
   - paper:
     title: "My thoughts of blockchain"
