@@ -17,7 +17,7 @@ style: styles-4
 #Profile information
 name: Pham Thanh Tu
 tagline: Solution Architect
-pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+pic: https://github.com/tubackkhoa.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 summary: "I'm 32 years old CTO of Agiletech Viet Nam and senior developer from the cozy street of Ha Noi. I have more than 10 years of work experience in various positions.
 I love coding, music and having time with my family.
 I'm also an international speaker of AI & Blockchain and the admin of <a href='https://www.facebook.com/groups/1561844270543595/' target='_blank'>Vietnam Blockchain Developers</a>.
